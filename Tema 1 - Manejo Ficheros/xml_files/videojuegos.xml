@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo tienda="EpicGamer">
+    <videojuego plataforma="PC">
+        <titulo>Cyberpunk 2077</titulo>
+        <genero>RPG</genero>
+        <precio>59.99</precio>
+        <valoracion>8.5</valoracion>
+        <dlcs>3</dlcs>
+    </videojuego>
+    <videojuego plataforma="PS5">
+        <titulo>Elden Ring</titulo>
+        <genero>RPG</genero>
+        <precio>69.99</precio>
+        <valoracion>9.6</valoracion>
+        <dlcs>1</dlcs>
+    </videojuego>
+    <videojuego plataforma="Switch">
+        <titulo>Hades</titulo>
+        <genero>Indie</genero>
+        <precio>24.99</precio>
+        <valoracion>9.3</valoracion>
+        <dlcs>0</dlcs>
+    </videojuego>
+    <videojuego plataforma="PC">
+        <titulo>Hollow Knight</titulo>
+        <genero>Indie</genero>
+        <precio>14.99</precio>
+        <valoracion>9.0</valoracion>
+        <dlcs>4</dlcs>
+    </videojuego>
+    <videojuego plataforma="Xbox">
+        <titulo>Forza Horizon 5</titulo>
+        <genero>Carreras</genero>
+        <precio>49.99</precio>
+        <valoracion>8.8</valoracion>
+        <dlcs>2</dlcs>
+    </videojuego>
+</catalogo>
