@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Horario ficticio de trenes con salida desde Valladolid-Campo Grande -->
+<horario fecha="2026-10-20" origen="Valladolid-Campo Grande">
+  <tren numero="4071" tipo="AVE">
+    <destino>Madrid-Chamartín</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>07:05</hora></parada>
+      <parada><estacion>Segovia-Guiomar</estacion><hora>07:32</hora></parada>
+      <parada><estacion>Madrid-Chamartín</estacion><hora>08:02</hora></parada>
+    </paradas>
+    <servicios><cafeteria/><wifi/></servicios>
+  </tren>
+  <tren numero="18021" tipo="MD">
+    <destino>Salamanca</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>07:40</hora></parada>
+      <parada><estacion>Medina del Campo</estacion><hora>08:12</hora></parada>
+      <parada><estacion>Cantalapiedra</estacion><hora>08:35</hora></parada>
+      <parada><estacion>Salamanca</estacion><hora>09:10</hora></parada>
+    </paradas>
+    <servicios/>
+  </tren>
+  <tren numero="4083" tipo="AVE">
+    <destino>Madrid-Chamartín</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>09:15</hora></parada>
+      <parada><estacion>Madrid-Chamartín</estacion><hora>10:10</hora></parada>
+    </paradas>
+    <servicios><wifi/></servicios>
+  </tren>
+  <tren numero="00631" tipo="Alvia">
+    <destino>León</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>10:20</hora></parada>
+      <parada><estacion>Palencia</estacion><hora>10:45</hora></parada>
+      <parada><estacion>León</estacion><hora>11:30</hora></parada>
+    </paradas>
+    <servicios><cafeteria/></servicios>
+  </tren>
+  <tren numero="18307" tipo="Regional">
+    <destino>Ávila</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>12:05</hora></parada>
+      <parada><estacion>Medina del Campo</estacion><hora>12:40</hora></parada>
+      <parada><estacion>Arévalo</estacion><hora>13:05</hora></parada>
+      <parada><estacion>Ávila</estacion><hora>13:45</hora></parada>
+    </paradas>
+  </tren>
+  <tren numero="4165" tipo="Alvia">
+    <destino>Burgos-Rosa Manzano</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>15:30</hora></parada>
+      <parada><estacion>Burgos-Rosa Manzano</estacion><hora>16:25</hora></parada>
+    </paradas>
+    <servicios><cafeteria/><wifi/></servicios>
+  </tren>
+  <tren numero="18951" tipo="MD">
+    <destino>Medina del Campo</destino>
+    <paradas>
+      <parada><estacion>Valladolid-Campo Grande</estacion><hora>19:10</hora></parada>
+      <parada><estacion>Valdestillas</estacion><hora>19:25</hora></parada>
+      <parada><estacion>Medina del Campo</estacion><hora>19:42</hora></parada>
+    </paradas>
+    <servicios/>
+  </tren>
+</horario>

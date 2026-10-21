@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este fichero está MAL FORMADO a propósito: falta cerrar un elemento. -->
+<estacion id="EST-02" ubicacion="Patio">
+  <lectura fecha="2026-10-12T08:00:00">
+    <temperatura>8.9</temperatura>
+    <humedad>90</humedad>
+  </lectura>
+  <lectura fecha="2026-10-12T09:00:00">
+    <temperatura>10.2</temperatura>
+    <humedad>86
+  </lectura>
+</estacion>

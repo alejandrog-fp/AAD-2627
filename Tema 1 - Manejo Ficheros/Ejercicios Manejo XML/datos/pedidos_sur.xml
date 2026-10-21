@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos sucursal="Sur">
+  <pedido id="2001" fecha="2026-10-01" cliente_id="C02" cliente="Construcciones Arlanza">
+    <producto>Andamio modular</producto>
+    <cantidad>4</cantidad>
+    <precio_unitario>215.00</precio_unitario>
+  </pedido>
+  <pedido id="2002" fecha="2026-10-03" cliente_id="C04" cliente="Reformas Tormes">
+    <producto>Lijadora orbital</producto>
+    <cantidad>2</cantidad>
+    <precio_unitario>64.00</precio_unitario>
+  </pedido>
+  <!-- Error de sincronización: este pedido de la sucursal Norte se copió aquí -->
+  <pedido id="1003" fecha="2026-10-02" cliente_id="C03" cliente="Ferretería Pisuerga">
+    <producto>Nivel láser</producto>
+    <cantidad>1</cantidad>
+    <precio_unitario>129.00</precio_unitario>
+  </pedido>
+  <pedido id="2003" fecha="2026-10-04" cliente_id="C01" cliente="Bricolaje Duero">
+    <producto>Escalera de aluminio</producto>
+    <cantidad>3</cantidad>
+    <precio_unitario>79.90</precio_unitario>
+  </pedido>
+  <pedido id="2004" fecha="2026-10-07" cliente_id="C04" cliente="Reformas Tormes">
+    <producto>Cinta métrica 8 m</producto>
+    <cantidad>12</cantidad>
+    <precio_unitario>9.75</precio_unitario>
+  </pedido>
+</pedidos>

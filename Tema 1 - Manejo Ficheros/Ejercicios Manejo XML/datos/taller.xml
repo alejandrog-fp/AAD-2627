@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Inventario del taller de bicicletas "Radios y Piñones" -->
+<taller nombre="Radios y Piñones" ciudad="Valladolid">
+  <bici id="B001" tipo="montaña">
+    <marca>Orbea</marca>
+    <modelo>Alma M30</modelo>
+    <precio moneda="EUR">1899.00</precio>
+    <stock>3</stock>
+  </bici>
+  <bici id="B002" tipo="carretera">
+    <marca>BH</marca>
+    <modelo>Ultralight 7.0</modelo>
+    <precio moneda="EUR">2499.90</precio>
+    <stock>1</stock>
+  </bici>
+  <bici id="B003" tipo="urbana">
+    <marca>Brompton</marca>
+    <modelo>C Line Explore</modelo>
+    <precio moneda="EUR">1650.00</precio>
+    <stock>4</stock>
+  </bici>
+  <bici id="B004" tipo="gravel">
+    <marca>Mondraker</marca>
+    <modelo>Dusty RR</modelo>
+    <precio moneda="EUR">3299.00</precio>
+    <!-- sin dato de stock: todavía no se ha hecho recuento -->
+  </bici>
+  <bici id="B005" tipo="montaña">
+    <marca>Megamo</marca>
+    <modelo>Factory 10</modelo>
+    <precio moneda="EUR">899.00</precio>
+    <stock>0</stock>
+  </bici>
+  <bici id="B006" tipo="eléctrica">
+    <marca>Orbea</marca>
+    <modelo>Vibe H30</modelo>
+    <precio moneda="EUR">2799.00</precio>
+    <stock>2</stock>
+  </bici>
+  <bici id="B007">
+    <marca>Conor</marca>
+    <modelo>WRC Pro</modelo>
+    <precio moneda="EUR">649.50</precio>
+    <stock>6</stock>
+  </bici>
+</taller>

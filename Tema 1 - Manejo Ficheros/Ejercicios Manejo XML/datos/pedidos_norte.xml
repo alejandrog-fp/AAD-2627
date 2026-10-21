@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidos sucursal="Norte">
+  <pedido id="1001" fecha="2026-10-01" cliente_id="C03" cliente="Ferretería Pisuerga">
+    <producto>Taladro percutor</producto>
+    <cantidad>2</cantidad>
+    <precio_unitario>89.90</precio_unitario>
+  </pedido>
+  <pedido id="1002" fecha="2026-10-02" cliente_id="C01" cliente="Bricolaje Duero">
+    <producto>Caja de tornillos 4x40</producto>
+    <cantidad>10</cantidad>
+    <precio_unitario>6.50</precio_unitario>
+  </pedido>
+  <pedido id="1003" fecha="2026-10-02" cliente_id="C03" cliente="Ferretería Pisuerga">
+    <producto>Nivel láser</producto>
+    <cantidad>1</cantidad>
+    <precio_unitario>129.00</precio_unitario>
+  </pedido>
+  <pedido id="1004" fecha="2026-10-05" cliente_id="C02" cliente="Construcciones Arlanza">
+    <producto>Hormigonera 160 L</producto>
+    <cantidad>1</cantidad>
+    <precio_unitario>379.00</precio_unitario>
+  </pedido>
+  <pedido id="1005" fecha="2026-10-06" cliente_id="C01" cliente="Bricolaje Duero">
+    <producto>Brocas para metal (juego)</producto>
+    <cantidad>5</cantidad>
+    <precio_unitario>14.95</precio_unitario>
+  </pedido>
+</pedidos>

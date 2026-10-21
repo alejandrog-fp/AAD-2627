@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist nombre="Para programar" autor="dam2">
+  <cancion id="c01">
+    <titulo>Intro (versión radio)</titulo>
+    <artista>Los Bucles</artista>
+    <duracion>0:42</duracion>
+    <valoracion>2</valoracion>
+  </cancion>
+  <cancion id="c02">
+    <titulo>Compilando a medianoche</titulo>
+    <artista>Null Pointer</artista>
+    <duracion>4:12</duracion>
+    <valoracion>5</valoracion>
+  </cancion>
+  <cancion id="c03">
+    <titulo>Commit sin mensaje</titulo>
+    <artista>Los Bucles</artista>
+    <duracion>3:05</duracion>
+    <valoracion>3</valoracion>
+  </cancion>
+  <cancion id="c04">
+    <titulo>Interludio</titulo>
+    <artista>Stack Overflow Band</artista>
+    <duracion>0:58</duracion>
+    <valoracion>4</valoracion>
+  </cancion>
+  <cancion id="c05">
+    <titulo>Tic</titulo>
+    <artista>La Recursiva</artista>
+    <duracion>0:15</duracion>
+    <valoracion>5</valoracion>
+  </cancion>
+  <cancion id="c06">
+    <titulo>Hola, mundo</titulo>
+    <artista>La Recursiva</artista>
+    <duracion>2:30</duracion>
+    <valoracion>1</valoracion>
+  </cancion>
+  <cancion id="c07">
+    <titulo>Merge conflict</titulo>
+    <artista>Null Pointer</artista>
+    <duracion>5:47</duracion>
+    <valoracion>4</valoracion>
+  </cancion>
+  <cancion id="c08">
+    <titulo>Despliegue en viernes</titulo>
+    <artista>Stack Overflow Band</artista>
+    <duracion>3:59</duracion>
+    <valoracion>5</valoracion>
+  </cancion>
+</playlist>

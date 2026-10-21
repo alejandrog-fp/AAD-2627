@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lecturas de una estación meteorológica casera. Contiene errores A PROPÓSITO. -->
+<estacion id="EST-01" ubicacion="Tejado del instituto">
+  <lectura fecha="2026-10-12T08:00:00">
+    <temperatura>9.4</temperatura>
+    <humedad>88</humedad>
+    <presion>1016.2</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T09:00:00">
+    <temperatura>11,1</temperatura>
+    <humedad>84</humedad>
+    <presion>1016.0</presion>
+  </lectura>
+  <lectura fecha="12/10/2026 10:00">
+    <temperatura>13.0</temperatura>
+    <humedad>79</humedad>
+    <presion>1015.7</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T11:00:00">
+    <humedad>72</humedad>
+    <presion>1015.5</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T12:00:00">
+    <temperatura>16.2</temperatura>
+    <humedad></humedad>
+    <presion>1015.1</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T13:00:00">
+    <temperatura>N/D</temperatura>
+    <humedad>63</humedad>
+    <presion>1014.8</presion>
+  </lectura>
+  <lectura>
+    <temperatura>18.0</temperatura>
+    <humedad>60</humedad>
+    <presion>1014.6</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T15:00:00">
+    <temperatura> 18.6 </temperatura>
+    <humedad>58</humedad>
+    <presion>1014,3</presion>
+  </lectura>
+  <lectura fecha="12/10/2026 16:00">
+    <temperatura>-999</temperatura>
+    <humedad>57</humedad>
+    <presion>1014.2</presion>
+  </lectura>
+  <lectura fecha="2026-10-12T17:00:00">
+    <temperatura>17.1</temperatura>
+    <humedad>61</humedad>
+    <presion>1014.4</presion>
+  </lectura>
+</estacion>
